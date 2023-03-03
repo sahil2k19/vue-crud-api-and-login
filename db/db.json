@@ -1,0 +1,127 @@
+{
+  "user": [
+    [
+      {
+        "name": "sahil",
+        "email": "sahil@gmail.com",
+        "password": "sahilgagan"
+      }
+    ],
+    {
+      "email": "sahil@gmail.com",
+      "name": "sahilgagan",
+      "password": "sahilgagan",
+      "id": 2
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "email": "sahligagan@gmail.com",
+      "name": "rahultyagi",
+      "password": "sahilgagan",
+      "id": 5
+    },
+    {
+      "email": "sahil",
+      "name": "sahil",
+      "password": "sahil",
+      "id": 6
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "email": "sahil",
+      "name": "sahil",
+      "password": "sahil",
+      "id": 9
+    },
+    {
+      "email": "sagahil",
+      "name": "sahilgaga",
+      "password": "sgahil",
+      "id": 10
+    },
+    {
+      "email": "sahil",
+      "name": "sahil",
+      "password": "ahil",
+      "id": 11
+    }
+  ],
+  "restaurent": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "address": "Noida sector 50",
+      "contact": 111
+    },
+    {
+      "name": "Pizza Hut",
+      "address": "Noida sector 50",
+      "contact": "11112",
+      "id": 2
+    },
+    {
+      "name": "burger king",
+      "address": "Gurgoan",
+      "contact": "123",
+      "id": 3
+    },
+    {
+      "name": "sahil",
+      "address": "saihl",
+      "contact": "sahil",
+      "id": 4
+    },
+    {
+      "name": "sahil",
+      "address": "saihl",
+      "contact": "sahil",
+      "id": 5
+    },
+    {
+      "name": "sahilgagan",
+      "address": "sahilgagan",
+      "contact": "sahilgagan",
+      "id": 6
+    },
+    {
+      "name": "sahilgagan",
+      "address": "sahilgagan",
+      "contact": "sahigagan",
+      "id": 7
+    },
+    {
+      "name": "sahil",
+      "address": "Gurgoan",
+      "contact": "123",
+      "id": 8
+    },
+    {
+      "name": "sahilgagan",
+      "address": "Gurgoan",
+      "contact": "123",
+      "id": 9
+    }
+  ]
+}
